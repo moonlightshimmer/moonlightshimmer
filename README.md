@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aj — Product Analyst | Data Scientist | Builder
+# 👋 Hi, I'm Rashmi — Product Analyst | Data Scientist | Builder
 
 Welcome to my GitHub profile! I'm a data-driven product thinker with a background spanning startups and enterprises like **AWS**, **Walmart**, **Postman**, and **MongoDB**. I use experimentation, analytics, and AI-native tools to design better products and unlock business growth.
 
