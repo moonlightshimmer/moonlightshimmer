@@ -81,7 +81,7 @@ Welcome to my GitHub profile! I'm a data-driven product thinker with a backgroun
 ## 📫 Let's Connect
 
 * 🌐 [LinkedIn](https://www.linkedin.com/in/rashmiumalkar/)
-* 📂 [Resume](https://github.com/moonlightshimmer/myhousehelp/blob/main/aj_resume.pdf)
+* 📂 [Resume](https://github.com/moonlightshimmer/moonlightshimmer/blob/main/Resume_RashmiUmalkar_0624.pdf)
 * ✍️ \[Blog (Coming Soon)]
 
 ---
